@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const maxNoClicks = 3;
     
     const messages = [
-        'แน่ใจเหรอ?',
+        'แน่ใจหรออ',
         'คิดดูดีๆ นะ',
-        'จะไม่เปลี่ยนใจจริงๆ เหรอ?'
+        'จะไม่เปลี่ยนใจจริงๆ หรอค้าบ'
     ];
     
     // ฟังก์ชันสำหรับสร้างลูกโป่ง
